@@ -1,0 +1,21 @@
+body{background-color: black;
+    color:white
+}
+h1{
+    color:red;
+    font-size:50px;
+    position: center;
+}
+.content{
+    margin-top: 122px;
+    margin-left: 52px;
+}
+.content h3{
+    font-weight: 700;
+}
+.icon{
+    margin-left: 72px;
+}
+.head{
+    margin-left: 72px;
+}
